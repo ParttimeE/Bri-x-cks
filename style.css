@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#game{
+    width: 2000px;
+    height: 700px;
+    
+    background-image:url(yellow.jpg);
+    
+   
+   
+}
+
+#bottum{
+    width: 2000px;
+    height: 700px;
+    background-image:url(gettyimages-1006971174-612x612.jpg);
+    
+}
+
+#character{
+ 
+    width: 50px;
+    height: 50px;
+    
+    background-image: url('brixfinal.png');
+    position: absolute;
+    top: 100px;
+    left: 85px;
+    
+}
+
+
+
+
+#bricks{
+    height: 700px;
+    width: 75px;
+    left:2500px;
+    top:0px;
+    position: absolute;
+    
+}
+
+#brick
+{  
+    position: absolute;
+    width: 75px;
+    height: 200px;
+    
+    position: relative;
+    background-image: url('gettyimages-153726345-612x612.jpg');
+    left: 0px;
+    top: 0px;
+ 
+}
+
+#gap
+{
+    width: 75px;
+    height: 200px;
+    
+    top: 0px;
+    position: relative;
+    left: 0px;
+}
+
+
+#brick2
+{   
+    width:75px;
+    height: 300px;
+    top: 0px;
+    background-image: url('bricks.jpg');
+    
+    position: relative;
+    left: 0px;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#blocks{
+    height: 700px;
+    width: 75px;
+    left:1500px;
+    top:0px;
+    
+    position: absolute;
+    
+}
+
+#block
+{  
+    position: absolute;
+    width:75px;
+    height:200px;
+    
+    position: relative;
+    background-image: url('bricks.jpg');
+    left: 0px;
+    top: 0px;
+    
+}
+
+#hole
+{
+    width:75px;
+    height: 200px;
+    
+    top: 0px;
+    position: relative;
+    left: 0px;
+}
+
+
+#block2
+{   
+    width:75px;
+    height: 300px;
+    top: 0px;
+    background-image: url('bricks.jpg');
+    
+    position: relative;
+    left: 0px;
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
